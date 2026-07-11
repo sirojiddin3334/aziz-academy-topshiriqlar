@@ -1,0 +1,2 @@
+print("olma, banan, uzum")
+
