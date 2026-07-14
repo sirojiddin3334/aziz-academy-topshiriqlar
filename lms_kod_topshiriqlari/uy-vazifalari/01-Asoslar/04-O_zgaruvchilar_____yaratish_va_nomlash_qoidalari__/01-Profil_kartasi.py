@@ -1,0 +1,7 @@
+
+print("=== PROFIL ===")
+print(f"Ism: Aziz")
+print(f"Familiya: Karimov")
+print(f"Kurs: Python")
+print(f"Daraja: Boshlang'ich")
+print(f"Shahar: Toshkent")
