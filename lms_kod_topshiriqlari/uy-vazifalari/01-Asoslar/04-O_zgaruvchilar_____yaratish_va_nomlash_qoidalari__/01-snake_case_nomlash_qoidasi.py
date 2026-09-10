@@ -1,6 +1,5 @@
-talaba_nomi = "Ali Valiyev"
-tugilgan_yili = 2005
+talaba_ismi = "Ali Valiyev"
+tugilgan_yili = "2005"
 shahar_nomi = "Toshkent"
-print(f"Talaba: {talaba_nomi}")
-print(f"Yil: {tugilgan_yili}")
-print(f"Shahar: {shahar_nomi}")
+
+print(f"Talaba: {talaba_ismi}\nYil: {tugilgan_yili}\nShahar: {shahar_nomi}")
