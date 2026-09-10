@@ -1,2 +1,1 @@
-print("olma, banan, uzum")
-
+print("olma", "banan", "uzum", sep=", ")
