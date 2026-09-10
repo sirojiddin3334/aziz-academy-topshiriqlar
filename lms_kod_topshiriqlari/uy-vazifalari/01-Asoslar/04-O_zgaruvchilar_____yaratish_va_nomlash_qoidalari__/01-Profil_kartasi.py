@@ -1,7 +1,6 @@
-
 print("=== PROFIL ===")
-print(f"Ism: Aziz")
-print(f"Familiya: Karimov")
-print(f"Kurs: Python")
-print(f"Daraja: Boshlang'ich")
-print(f"Shahar: Toshkent")
+print("Ism: Aziz")
+print("Familiya: Karimov")
+print("Kurs: Python")
+print("Daraja: Boshlang'ich")
+print("Shahar: Toshkent")
