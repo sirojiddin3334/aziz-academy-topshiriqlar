@@ -1,4 +1,5 @@
 holat = "Boshlandi"
-print (holat)
+print(holat)
+
 holat = "Tugadi"
 print(holat)
