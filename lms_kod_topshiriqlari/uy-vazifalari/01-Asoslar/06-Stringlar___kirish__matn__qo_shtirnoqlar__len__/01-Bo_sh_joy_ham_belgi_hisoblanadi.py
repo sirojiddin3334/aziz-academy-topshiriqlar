@@ -1,2 +1,3 @@
-print("Matn: Aziz Academy")
-print("Belgilar soni: 12")
+matn = "Aziz Academy"
+print("Matn:", matn)
+print("Belgilar soni:", len(matn))
