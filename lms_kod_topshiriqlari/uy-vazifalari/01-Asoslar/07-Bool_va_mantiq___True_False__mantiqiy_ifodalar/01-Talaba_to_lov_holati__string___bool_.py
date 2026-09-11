@@ -1,2 +1,5 @@
-print("Talaba: Aziz")
-print("To'lov qilingan: False")
+talaba = "Aziz"
+tolov_qilingan = False
+
+print(f"Talaba: {talaba}")
+print(f"To'lov qilingan: {tolov_qilingan}")
