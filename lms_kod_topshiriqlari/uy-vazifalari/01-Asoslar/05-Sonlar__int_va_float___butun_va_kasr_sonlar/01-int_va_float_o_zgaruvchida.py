@@ -1,2 +1,5 @@
-print("Yosh: 20")
-print("Bo'yi: 1.75")
+yosh = 20
+boyi = 1.75
+
+print(f"Yosh: {yosh}")
+print(f"Bo'yi: {boyi}")
