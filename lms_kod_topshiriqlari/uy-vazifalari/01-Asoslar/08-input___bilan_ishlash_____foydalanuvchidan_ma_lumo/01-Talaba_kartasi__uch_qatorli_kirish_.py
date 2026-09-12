@@ -1,7 +1,6 @@
 ism = input()
 familiya = input()
 kurs = input()
-
 print("=== TALABA ===")
 print(f"Ism: {ism}")
 print(f"Familiya: {familiya}")
