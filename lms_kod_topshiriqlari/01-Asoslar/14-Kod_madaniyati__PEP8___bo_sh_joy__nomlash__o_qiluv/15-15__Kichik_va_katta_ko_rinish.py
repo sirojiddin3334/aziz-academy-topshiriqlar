@@ -1,0 +1,1 @@
+# Kodingizni shu yerga yozing
